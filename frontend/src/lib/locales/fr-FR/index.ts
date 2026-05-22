@@ -27,6 +27,7 @@ export const frFR = {
     russian: "Русский",
     bengali: "বাংলা",
     spanish: "Español",
+    german: "Deutsch",
     source: "Source",
     notebook: "Carnet",
     podcast: "Podcast",

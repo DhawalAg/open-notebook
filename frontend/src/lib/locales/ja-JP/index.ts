@@ -27,6 +27,7 @@ export const jaJP = {
     russian: "Русский",
     bengali: "বাংলা",
     spanish: "Español",
+    german: "Deutsch",
     source: "ソース",
     notebook: "ノートブック",
     podcast: "ポッドキャスト",

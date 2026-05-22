@@ -27,6 +27,7 @@ export const esES = {
     russian: "Русский",
     bengali: "বাংলা",
     spanish: "Español",
+    german: "Deutsch",
     source: "Fuente",
     notebook: "Cuaderno",
     podcast: "Podcast",
